@@ -1,0 +1,5 @@
+vstupy/ares
+vstupy/indexy
+vstupy/*.xml
+*.swp
+*.ipynb
